@@ -1,0 +1,1 @@
+Hey,Iam Tasfia Zaman Totiny,doing an internship in CodSoft.This repo is mainly for my projects of internship.I took help from YouTube,GitHub in some Cases.I used json file but edited it a bit.Yeah I learnt a lot from this internship.
