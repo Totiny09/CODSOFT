@@ -1,1 +1,1 @@
-# CODSOFT
+Iam Tasfia Zaman Totiny,doing an internship in CODSOFT.It is the repo where I write codes for the projects for my internship.I have got help from many You Tube creators in this journey,I have learnt a lot.Thanks for this opportunity.
